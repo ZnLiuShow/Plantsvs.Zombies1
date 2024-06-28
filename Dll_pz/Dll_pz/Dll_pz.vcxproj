@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{f8a95bb5-dde4-4211-9758-92737d2f0326}</ProjectGuid>
-    <RootNamespace>DllPZ</RootNamespace>
+    <ProjectGuid>{daf90218-e547-4690-a63f-743d7e6d601e}</ProjectGuid>
+    <RootNamespace>Dllpz</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
